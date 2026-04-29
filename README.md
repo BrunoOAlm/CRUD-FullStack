@@ -98,6 +98,7 @@ NEXT_PUBLIC_API_URL=https://sua-api.com
 - [ ] Recuperação de senha por email
 - [ ] Testes unitários com JUnit e Jest
 - [ ] Docker Compose para subir tudo com um comando
+- [ ] > Decidi manter o projeto focado no CRUD completo com JWT, que era o objetivo de aprendizado. As features acima ficam como ideias para uma v2.
 
 ## Autor
 
