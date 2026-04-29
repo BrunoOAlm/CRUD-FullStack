@@ -89,10 +89,8 @@ NEXT_PUBLIC_API_URL=https://sua-api.com
 
 ## Screenshots
 
-> Adicione prints aqui
-> 
-> `![Login](/docs/login.png)`
-> `![Dashboard](/docs/dashboard.png)`
+![Tela de Login](docs/login.png)
+![Dashboard de Usuários](docs/dashboard.png)
 
 ## Próximos passos
 
